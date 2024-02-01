@@ -1,0 +1,27 @@
+.App
+{
+    overflow: hidden;
+    background-color:aliceblue;
+    height: 100vh;
+    overflow-y:scroll;
+}
+
+.Edit-container
+{ 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    margin: 50px;
+}
+
+.button-container-edit
+{
+    margin: 30px;
+}
+.button-container-edit button
+{
+    margin: 10px;
+}
+
